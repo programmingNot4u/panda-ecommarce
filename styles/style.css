@@ -213,7 +213,8 @@ body {
 }
 
 .card-continer img {
-  max-width: 100%;
+  max-width: 290px;
+  max-height: 290px;
 }
 .card-continer * {
   margin-bottom: 16px;
